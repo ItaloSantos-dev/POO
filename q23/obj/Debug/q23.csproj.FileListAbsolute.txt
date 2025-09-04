@@ -1,0 +1,8 @@
+D:\FACEMA\ESTUDOS\POO\60questões\q23\bin\Debug\q23.exe.config
+D:\FACEMA\ESTUDOS\POO\60questões\q23\bin\Debug\q23.exe
+D:\FACEMA\ESTUDOS\POO\60questões\q23\bin\Debug\q23.pdb
+D:\FACEMA\ESTUDOS\POO\60questões\q23\obj\Debug\q23.csproj.AssemblyReference.cache
+D:\FACEMA\ESTUDOS\POO\60questões\q23\obj\Debug\q23.csproj.CoreCompileInputs.cache
+D:\FACEMA\ESTUDOS\POO\60questões\q23\obj\Debug\q23.exe
+D:\FACEMA\ESTUDOS\POO\60questões\q23\obj\Debug\q23.pdb
+D:\FACEMA\ESTUDOS\POO\60questões\q23\obj\Debug\q23.exe.config

@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BD1119-EAB0-4C8E-BBC0-71E67A1EFC67}|q(5).csproj|D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q5\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BD1119-EAB0-4C8E-BBC0-71E67A1EFC67}|q(5).csproj|solutionrelative:quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BD1119-EAB0-4C8E-BBC0-71E67A1EFC67}|q(5).csproj|d:\\facema\\estudos\\poo\\60quest\u00F5es\\q5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BD1119-EAB0-4C8E-BBC0-71E67A1EFC67}|q(5).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q5\\Quadrado.cs",
+              "RelativeDocumentMoniker": "Quadrado.cs",
+              "ToolTip": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q5\\Quadrado.cs",
+              "RelativeToolTip": "Quadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:43:01.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:42:14.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

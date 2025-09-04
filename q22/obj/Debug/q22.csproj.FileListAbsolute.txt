@@ -1,0 +1,8 @@
+D:\FACEMA\ESTUDOS\POO\60questões\q22\obj\Debug\q22.csproj.AssemblyReference.cache
+D:\FACEMA\ESTUDOS\POO\60questões\q22\obj\Debug\q22.csproj.CoreCompileInputs.cache
+D:\FACEMA\ESTUDOS\POO\60questões\q22\bin\Debug\q22.exe.config
+D:\FACEMA\ESTUDOS\POO\60questões\q22\bin\Debug\q22.exe
+D:\FACEMA\ESTUDOS\POO\60questões\q22\bin\Debug\q22.pdb
+D:\FACEMA\ESTUDOS\POO\60questões\q22\obj\Debug\q22.exe
+D:\FACEMA\ESTUDOS\POO\60questões\q22\obj\Debug\q22.pdb
+D:\FACEMA\ESTUDOS\POO\60questões\q22\obj\Debug\q22.exe.config

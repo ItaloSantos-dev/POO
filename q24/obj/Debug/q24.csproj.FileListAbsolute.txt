@@ -1,0 +1,8 @@
+D:\FACEMA\ESTUDOS\POO\60questões\q24\bin\Debug\q24.exe.config
+D:\FACEMA\ESTUDOS\POO\60questões\q24\bin\Debug\q24.exe
+D:\FACEMA\ESTUDOS\POO\60questões\q24\bin\Debug\q24.pdb
+D:\FACEMA\ESTUDOS\POO\60questões\q24\obj\Debug\q24.csproj.AssemblyReference.cache
+D:\FACEMA\ESTUDOS\POO\60questões\q24\obj\Debug\q24.csproj.CoreCompileInputs.cache
+D:\FACEMA\ESTUDOS\POO\60questões\q24\obj\Debug\q24.exe
+D:\FACEMA\ESTUDOS\POO\60questões\q24\obj\Debug\q24.pdb
+D:\FACEMA\ESTUDOS\POO\60questões\q24\obj\Debug\q24.exe.config

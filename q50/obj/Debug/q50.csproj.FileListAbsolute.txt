@@ -1,0 +1,8 @@
+D:\FACEMA\ESTUDOS\POO\60questões\q50\bin\Debug\q50.exe.config
+D:\FACEMA\ESTUDOS\POO\60questões\q50\bin\Debug\q50.exe
+D:\FACEMA\ESTUDOS\POO\60questões\q50\bin\Debug\q50.pdb
+D:\FACEMA\ESTUDOS\POO\60questões\q50\obj\Debug\q50.csproj.AssemblyReference.cache
+D:\FACEMA\ESTUDOS\POO\60questões\q50\obj\Debug\q50.csproj.CoreCompileInputs.cache
+D:\FACEMA\ESTUDOS\POO\60questões\q50\obj\Debug\q50.exe
+D:\FACEMA\ESTUDOS\POO\60questões\q50\obj\Debug\q50.pdb
+D:\FACEMA\ESTUDOS\POO\60questões\q50\obj\Debug\q50.exe.config

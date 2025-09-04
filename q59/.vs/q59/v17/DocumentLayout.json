@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q59\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07DA92A4-BE82-44BA-9430-0B9A1BC4B402}|q59.csproj|d:\\facema\\estudos\\poo\\60quest\u00F5es\\q59\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DA92A4-BE82-44BA-9430-0B9A1BC4B402}|q59.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DA92A4-BE82-44BA-9430-0B9A1BC4B402}|q59.csproj|d:\\facema\\estudos\\poo\\60quest\u00F5es\\q59\\smsnotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DA92A4-BE82-44BA-9430-0B9A1BC4B402}|q59.csproj|solutionrelative:smsnotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DA92A4-BE82-44BA-9430-0B9A1BC4B402}|q59.csproj|d:\\facema\\estudos\\poo\\60quest\u00F5es\\q59\\emailnotificado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DA92A4-BE82-44BA-9430-0B9A1BC4B402}|q59.csproj|solutionrelative:emailnotificado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DA92A4-BE82-44BA-9430-0B9A1BC4B402}|q59.csproj|d:\\facema\\estudos\\poo\\60quest\u00F5es\\q59\\notificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DA92A4-BE82-44BA-9430-0B9A1BC4B402}|q59.csproj|solutionrelative:notificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmsNotificador.cs",
+              "DocumentMoniker": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q59\\SmsNotificador.cs",
+              "RelativeDocumentMoniker": "SmsNotificador.cs",
+              "ToolTip": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q59\\SmsNotificador.cs",
+              "RelativeToolTip": "SmsNotificador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:05:15.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailNotificado.cs",
+              "DocumentMoniker": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q59\\EmailNotificado.cs",
+              "RelativeDocumentMoniker": "EmailNotificado.cs",
+              "ToolTip": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q59\\EmailNotificado.cs",
+              "RelativeToolTip": "EmailNotificado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:04:47.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Notificador.cs",
+              "DocumentMoniker": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q59\\Notificador.cs",
+              "RelativeDocumentMoniker": "Notificador.cs",
+              "ToolTip": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q59\\Notificador.cs",
+              "RelativeToolTip": "Notificador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:04:09.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q59\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q59\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:03:54.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

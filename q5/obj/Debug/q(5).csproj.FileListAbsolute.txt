@@ -1,0 +1,16 @@
+D:\FACEMA\ESTUDOS\POO\60questões\q(5)\bin\Debug\q(5).exe.config
+D:\FACEMA\ESTUDOS\POO\60questões\q(5)\bin\Debug\q(5).exe
+D:\FACEMA\ESTUDOS\POO\60questões\q(5)\bin\Debug\q(5).pdb
+D:\FACEMA\ESTUDOS\POO\60questões\q(5)\obj\Debug\q(5).csproj.AssemblyReference.cache
+D:\FACEMA\ESTUDOS\POO\60questões\q(5)\obj\Debug\q(5).csproj.CoreCompileInputs.cache
+D:\FACEMA\ESTUDOS\POO\60questões\q(5)\obj\Debug\q(5).exe
+D:\FACEMA\ESTUDOS\POO\60questões\q(5)\obj\Debug\q(5).pdb
+D:\FACEMA\ESTUDOS\POO\60questões\q(5)\obj\Debug\q(5).exe.config
+D:\FACEMA\ESTUDOS\POO\60questões\q5\bin\Debug\q(5).exe.config
+D:\FACEMA\ESTUDOS\POO\60questões\q5\bin\Debug\q(5).exe
+D:\FACEMA\ESTUDOS\POO\60questões\q5\bin\Debug\q(5).pdb
+D:\FACEMA\ESTUDOS\POO\60questões\q5\obj\Debug\q(5).csproj.AssemblyReference.cache
+D:\FACEMA\ESTUDOS\POO\60questões\q5\obj\Debug\q(5).exe.config
+D:\FACEMA\ESTUDOS\POO\60questões\q5\obj\Debug\q(5).csproj.CoreCompileInputs.cache
+D:\FACEMA\ESTUDOS\POO\60questões\q5\obj\Debug\q(5).exe
+D:\FACEMA\ESTUDOS\POO\60questões\q5\obj\Debug\q(5).pdb

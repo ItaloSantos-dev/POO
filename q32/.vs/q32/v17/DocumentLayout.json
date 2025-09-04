@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q32\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{234F3072-2A29-4645-B994-E764FC115BF2}|q32.csproj|d:\\facema\\estudos\\poo\\60quest\u00F5es\\q32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234F3072-2A29-4645-B994-E764FC115BF2}|q32.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234F3072-2A29-4645-B994-E764FC115BF2}|q32.csproj|d:\\facema\\estudos\\poo\\60quest\u00F5es\\q32\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234F3072-2A29-4645-B994-E764FC115BF2}|q32.csproj|solutionrelative:carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234F3072-2A29-4645-B994-E764FC115BF2}|q32.csproj|d:\\facema\\estudos\\poo\\60quest\u00F5es\\q32\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234F3072-2A29-4645-B994-E764FC115BF2}|q32.csproj|solutionrelative:veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q32\\Carro.cs",
+              "RelativeDocumentMoniker": "Carro.cs",
+              "ToolTip": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q32\\Carro.cs",
+              "RelativeToolTip": "Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:55:21.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q32\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Veiculo.cs",
+              "ToolTip": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q32\\Veiculo.cs",
+              "RelativeToolTip": "Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:55:00.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q32\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\FACEMA\\ESTUDOS\\POO\\60quest\u00F5es\\q32\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:54:51.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

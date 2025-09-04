@@ -1,0 +1,7 @@
+D:\FACEMA\ESTUDOS\POO\60questões\q36\bin\Debug\q36.exe.config
+D:\FACEMA\ESTUDOS\POO\60questões\q36\bin\Debug\q36.exe
+D:\FACEMA\ESTUDOS\POO\60questões\q36\bin\Debug\q36.pdb
+D:\FACEMA\ESTUDOS\POO\60questões\q36\obj\Debug\q36.csproj.AssemblyReference.cache
+D:\FACEMA\ESTUDOS\POO\60questões\q36\obj\Debug\q36.csproj.CoreCompileInputs.cache
+D:\FACEMA\ESTUDOS\POO\60questões\q36\obj\Debug\q36.exe
+D:\FACEMA\ESTUDOS\POO\60questões\q36\obj\Debug\q36.pdb

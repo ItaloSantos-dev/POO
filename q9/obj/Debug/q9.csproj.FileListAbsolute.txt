@@ -1,0 +1,8 @@
+D:\FACEMA\ESTUDOS\POO\60questões\q9\obj\Debug\q9.csproj.AssemblyReference.cache
+D:\FACEMA\ESTUDOS\POO\60questões\q9\obj\Debug\q9.csproj.CoreCompileInputs.cache
+D:\FACEMA\ESTUDOS\POO\60questões\q9\bin\Debug\q9.exe.config
+D:\FACEMA\ESTUDOS\POO\60questões\q9\bin\Debug\q9.exe
+D:\FACEMA\ESTUDOS\POO\60questões\q9\bin\Debug\q9.pdb
+D:\FACEMA\ESTUDOS\POO\60questões\q9\obj\Debug\q9.exe
+D:\FACEMA\ESTUDOS\POO\60questões\q9\obj\Debug\q9.pdb
+D:\FACEMA\ESTUDOS\POO\60questões\q9\obj\Debug\q9.exe.config

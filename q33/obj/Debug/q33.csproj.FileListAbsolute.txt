@@ -1,0 +1,7 @@
+D:\FACEMA\ESTUDOS\POO\60questões\q33\obj\Debug\q33.csproj.AssemblyReference.cache
+D:\FACEMA\ESTUDOS\POO\60questões\q33\obj\Debug\q33.csproj.CoreCompileInputs.cache
+D:\FACEMA\ESTUDOS\POO\60questões\q33\bin\Debug\q33.exe.config
+D:\FACEMA\ESTUDOS\POO\60questões\q33\bin\Debug\q33.exe
+D:\FACEMA\ESTUDOS\POO\60questões\q33\bin\Debug\q33.pdb
+D:\FACEMA\ESTUDOS\POO\60questões\q33\obj\Debug\q33.exe
+D:\FACEMA\ESTUDOS\POO\60questões\q33\obj\Debug\q33.pdb
